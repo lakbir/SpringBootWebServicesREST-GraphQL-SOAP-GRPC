@@ -12,3 +12,6 @@ Using :
 - H2 Database
 - graphql
 - cxf : pour déployer le ws soap dans un contenur spring
+
+# Project Architect
+![Architect](img/1.PNG)
