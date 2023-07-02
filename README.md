@@ -14,4 +14,4 @@ Using :
 - cxf : pour déployer le ws soap dans un contenur spring
 
 # Project Architect
-![Architect](img/1.PNG)
+![Architect](img/1.png)
